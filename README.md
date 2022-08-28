@@ -23,5 +23,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vageeshan&show_icons=true&locale=en&theme=tokyonight" alt="vageeshan" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vageeshan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vageeshan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vageeshan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vageeshan" />
 </div>
