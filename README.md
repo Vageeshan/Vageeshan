@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Java, Spring Boot and AWS**
 
+- 🌱 Helping & supporting other developers and beginners will be the biggest **asset** that you can do in your IT career. **Don't forget we are here because of others**.
+
 - ⚡ I'm always here to help all developers and contribute to open source projects 😘
 
 <h3 align="left">Connect with me:</h3>
