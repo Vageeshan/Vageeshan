@@ -30,8 +30,9 @@
 ---
 <table align="center">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=vageeshan&show_icons=true&locale=en&theme=tokyonight" style="height:180px;"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vageeshan&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=vageeshan&show_icons=true&locale=en&theme=tokyonight" style="height:180px;" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vageeshan&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  </td>
   </tr>
 </table>
 
