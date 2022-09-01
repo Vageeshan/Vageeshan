@@ -34,6 +34,12 @@
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vageeshan&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
   </td>
   </tr>
+  
+   <tr align="center">
+     <td colSpan="2" valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vageeshan&locale=en&theme=tokyonight" />
+  </td>
+  </tr>
 </table>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vageeshan" alt="vageeshan" /></a> </div>
 
 ---
