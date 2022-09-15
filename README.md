@@ -7,15 +7,15 @@
 <img src="https://komarev.com/ghpvc/?username=vageeshan&label=Profile%20views&color=0e75b6&style=flat" alt="vageeshan" /></p>
 
 
-- 🔭 I’m currently working in **Virtusa**
+- 🔭 I’m currently working in **Virtusa**.
 
-- 📝 I regularly write articles on [https://medium.com/@G.Vageeshan](https://medium.com/@G.Vageeshan)
+- 📝 I regularly write articles on [https://medium.com/@G.Vageeshan](https://medium.com/@G.Vageeshan).
 
-- 💬 Ask me about **Java, Spring Boot and AWS**
+- 💬 Ask me about **Java, Spring Boot and AWS**.
 
 - 🌱 Helping & supporting other developers and beginners will be the biggest **asset** that you can do in your IT career. **Don't forget we are here because of others**.
 
-- ⚡ I'm always here to help all developers and contribute to open source projects 😘
+- ⚡ I'm always here to help all developers and contribute to open source projects 😘.
 
 ---
 
