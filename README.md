@@ -41,7 +41,7 @@
   </td>
   </tr>
    <tr align="center">
-     <td colSpan="2" valign="top"><img src="https://activity-graph.herokuapp.com/graph?username=Vageeshan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+     <td colSpan="2" valign="top"><img src="https://activity-graph.herokuapp.com/graph?username=Vageeshan&bg_color=1c1917&color=ffffff&count_private=true&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   </td>
   </tr>
 </table>
