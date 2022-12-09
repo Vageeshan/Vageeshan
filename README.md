@@ -41,10 +41,11 @@
   </td>
   </tr>
    <tr align="center">
-     <td colSpan="2" valign="top"><img src="https://activity-graph.herokuapp.com/graph?username=Vageeshan&bg_color=1c1917&color=ffffff&count_private=true&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+     <td colSpan="2" valign="top"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Vageeshan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=ffffff&area=true&hide_border=true" /></a></a>
   </td>
   </tr>
 </table>
+ 
 
 <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vageeshan" alt="vageeshan" /></a> </div>
 
