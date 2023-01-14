@@ -46,7 +46,6 @@
   </tr>
 </table>
  
-
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vageeshan" alt="vageeshan" /></a> </div>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vageeshan&theme=flat" alt="vageeshan" /></a> </div>
 
 ---
