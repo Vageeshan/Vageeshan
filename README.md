@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working in **Virtusa**.
 
-- 📝 I regularly write articles on [https://medium.com/@G.Vageeshan](https://medium.com/@G.Vageeshan).
-
 - 💬 We can have a coffee with :wink: **Java, Spring Boot, Hibernate and AWS**.
 
 - 🌱 Helping & supporting other developers and beginners will be the biggest **asset** that you can do in your IT career. **Don't forget we are here because of others**.
