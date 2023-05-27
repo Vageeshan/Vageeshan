@@ -39,7 +39,7 @@
   </td>
   </tr>
    <tr align="center">
-     <td colSpan="2" valign="top"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Vageeshan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=ffffff&area=true&hide_border=true" /></a></a>
+     <td colSpan="2" valign="top"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Vageeshan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=ffffff&area=true&hide_border=true" /></a></a>
   </td>
   </tr>
 </table>
