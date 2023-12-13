@@ -2,7 +2,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*ieZpfpwDamHjdyhvaB_eMA.gif)
 <h1 align="center">Hi DoOds<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3.5%"/>, I'm Ganeshapillai Vageeshan</h1>
 <h3 align="center">A Passionate AWS Certified Fullstack Java Developer From Srilanka <img width="3.5%" src="https://c.tenor.com/Wq-MvpjAJksAAAAM/emojilaugh-emoji.gif"/></h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI0MzI0MjksIm5iZiI6MTcwMjQzMjEyOSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjEzVDAxNDg0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2YTVkZDg1MTczNmI0YmIwYWFjODcwNDAwODM0OGE0YzgzZGNiNWU1MWYxNzVhMDczYTlkOGNiZjkzZjg0NjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8GRIj2CjD1my78bSMUnydJ6s2tHMZGaDUun57vwkdvo"/>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=vageeshan&label=Profile%20views&color=0e75b6&style=flat" alt="vageeshan" /></p>
 
