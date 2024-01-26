@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in **Virtusa**.
 
-- 💬 We can have a coffee with :wink: **Java, Spring Boot, Hibernate and AWS**.
+- 💬 We can have a coffee with :wink: **Java, Microservices, Spring Boot, NestJS, Hibernate, and AWS**.
 
 - 🌱 Helping & supporting other developers and beginners will be the biggest **asset** that you can do in your IT career. **Don't forget we are here because of others**.
 
