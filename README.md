@@ -13,8 +13,7 @@
 
 - 🌱 Helping & supporting other developers and beginners will be the biggest **asset** that you can do in your IT career. **Don't forget we are here because of others**.
 
-- ⚡ I'm always here to help all developers and contribute to open source projects 😘.
-
+- ⚡ I'm excited about pushing the boundaries of technology and staying up-to-date with industry trends. If you're looking for a dedicated engineer who can bring your vision to life and provide elegant solutions to complex problems, I'd love to connect! Jai ho!!
 ---
 
 <h3 align="left">Connect with me:</h3>
